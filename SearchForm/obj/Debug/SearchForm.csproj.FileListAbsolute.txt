@@ -1,0 +1,5 @@
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\SearchForm\SearchForm\obj\Debug\SearchForm.csproj.AssemblyReference.cache
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\SearchForm\SearchForm\obj\Debug\SearchForm.Properties.Resources.resources
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\SearchForm\SearchForm\obj\Debug\BookStoreApp.SearchForm.resources
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\SearchForm\SearchForm\obj\Debug\SearchForm.csproj.GenerateResource.cache
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\SearchForm\SearchForm\obj\Debug\SearchForm.csproj.CoreCompileInputs.cache
