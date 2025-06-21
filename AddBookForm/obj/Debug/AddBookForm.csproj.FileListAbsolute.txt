@@ -1,0 +1,11 @@
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\bin\Debug\AddBookForm.exe.config
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\bin\Debug\AddBookForm.exe
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\bin\Debug\AddBookForm.pdb
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\obj\Debug\AddBookForm.csproj.AssemblyReference.cache
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\obj\Debug\AddBookForm.AddBookForm.resources
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\obj\Debug\AddBookForm.Properties.Resources.resources
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\obj\Debug\AddBookForm.csproj.GenerateResource.cache
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\obj\Debug\AddBookForm.csproj.CoreCompileInputs.cache
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\obj\Debug\AddBookForm.exe
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\obj\Debug\AddBookForm.pdb
+C:\Users\mu qing\Desktop\uni\2nd_year\практика\4\lab4cp2025-Taisiia-Hulko\AddBookForm\AddBookForm\obj\Debug\BookStoreApp.AddBookForm.resources
